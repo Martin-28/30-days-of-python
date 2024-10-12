@@ -19,24 +19,46 @@ Al final de los 30 días, habré creado varios proyectos en Python, comprendido 
 
 ## 🚀 ¿Qué encontrarás?
 
-Cada carpeta en este repositorio corresponde a un día específico del desafío. Aquí tienes el índice:
+Cada carpeta en este repositorio corresponde a un día específico del desafío. Aquí tienes el índice completo:
 
-| Día | Tema | Estado |
-| --- | --- | --- |
-| 01 | Introducción a Python y Variables | ✅ Completado |
-| 02 | Tipos de Datos y Operaciones Básicas | 🛠️ En progreso |
-| 03 | Condicionales y Bucles | 🔜 Próximamente |
-| 04 | Funciones y Módulos | 🔜 Próximamente |
-| 05 | Estructuras de Datos | 🔜 Próximamente |
-| 06 | Manejo de Errores | 🔜 Próximamente |
-| 07 | Programación Orientada a Objetos | 🔜 Próximamente |
-| 08 | Web Scraping | 🔜 Próximamente |
-| 09 | APIs y Automatización | 🔜 Próximamente |
-| 10 | Proyecto Final: Automatización en Python | 🔜 Próximamente |
+## 📅 Plan de 30 Días de Python
+
+| Día | Tema |
+|-----|-------|
+| 01  | [Introducción a Python y Variables](#dia-1-introduccion-a-python-y-variables) |
+| 02  | [Tipos de Datos y Operaciones Básicas](#dia-2-tipos-de-datos-y-operaciones-basicas) |
+| 03  | [Condicionales y Bucles](#dia-3-condicionales-y-bucles) |
+| 04  | [Funciones y Módulos](#dia-4-funciones-y-modulos) |
+| 05  | [Estructuras de Datos](#dia-5-estructuras-de-datos) |
+| 06  | [Manejo de Errores](#dia-6-manejo-de-errores) |
+| 07  | [Programación Orientada a Objetos](#dia-7-programacion-orientada-a-objetos) |
+| 08  | [Web Scraping](#dia-8-web-scraping) |
+| 09  | [APIs y Automatización](#dia-9-apis-y-automatizacion) |
+| 10  | [Proyecto Final: Automatización en Python](#dia-10-proyecto-final-automatizacion-en-python) |
+| 11  | [Introducción a Pandas](#dia-11-introduccion-a-pandas) |
+| 12  | [Manejo de Archivos](#dia-12-manejo-de-archivos) |
+| 13  | [Estadísticas en Python](#dia-13-estadisticas-en-python) |
+| 14  | [Clases y Objetos](#dia-14-clases-y-objetos) |
+| 15  | [Funciones de Orden Superior](#dia-15-funciones-de-orden-superior) |
+| 16  | [Fechas y Tiempos](#dia-16-fechas-y-tiempos) |
+| 17  | [Manejo de Excepciones](#dia-17-manejo-de-excepciones) |
+| 18  | [Expresiones Regulares](#dia-18-expresiones-regulares) |
+| 19  | [Manejo de Bases de Datos](#dia-19-manejo-de-bases-de-datos) |
+| 20  | [Entorno Virtual](#dia-20-entorno-virtual) |
+| 21  | [Construcción de APIs](#dia-21-construccion-de-apis) |
+| 22  | [Scraping Web Avanzado](#dia-22-scraping-web-avanzado) |
+| 23  | [Proyecto de Finalización](#dia-23-proyecto-de-finalizacion) |
+| 24  | [Python para Desarrollo Web](#dia-24-python-para-desarrollo-web) |
+| 25  | [Integración Continua](#dia-25-integracion-continua) |
+| 26  | [Python y Machine Learning](#dia-26-python-y-machine-learning) |
+| 27  | [Desarrollo de Juegos](#dia-27-desarrollo-de-juegos) |
+| 28  | [Proyectos Reales](#dia-28-proyectos-reales) |
+| 29  | [Preparación para el Futuro](#dia-29-preparacion-para-el-futuro) |
+| 30  | [Conclusiones y Reflexiones](#dia-30-conclusiones-y-reflexiones) |
 
 ---
 
-<a name="dia-1-introduccion-a-python"></a>
+<a name="dia-1-introduccion-a-python-y-variables"></a>
 ## 📝 Día 1: Introducción a Python y Variables
 
 ### 🔍 Conceptos cubiertos
@@ -71,6 +93,13 @@ print('Lenguajes:', lenguajes)  # Imprime la lista de lenguajes
 2. **Tipos de datos**: En este ejemplo usamos **string** (texto), **números enteros** y **booleanos** (True/False).
 3. **Listas**: Guardamos múltiples valores en una sola variable (`lenguajes`).
 4. **Función `print()`**: Sirve para mostrar el valor de las variables en la consola.
+
+---
+
+<a name="dia-2-tipos-de-datos-y-operaciones-basicas"></a>
+## 📝 Día 2: Tipos de Datos y Operaciones Básicas
+
+(… contenido por completar …)
 
 ---
 
