@@ -19,44 +19,20 @@ Al final de los 30 días, habré creado varios proyectos en Python, comprendido 
 
 ## 🚀 ¿Qué encontrarás?
 
-Cada carpeta en este repositorio corresponde a un día específico del desafío. Aquí tienes el índice completo:
+Cada carpeta en este repositorio corresponde a un día específico del desafío. Aquí tienes el índice:
 
----
-
-## 📅 Plan de 30 Días de Python
-
-| Día | Tema |
-|-----|-------|
-| 01  | [Introducción a Python](#dia-1-introduccion-a-python) |
-| 02  | [Variables y Funciones Integradas](#dia-2-variables-y-funciones-integradas) |
-| 03  | Operadores |
-| 04  | Cadenas de Texto (Strings) |
-| 05  | Listas |
-| 06  | Tuplas |
-| 07  | Conjuntos (Sets) |
-| 08  | Diccionarios |
-| 09  | Condicionales |
-| 10  | Bucles (Loops) |
-| 11  | Funciones |
-| 12  | Módulos |
-| 13  | Comprensión de Listas (List Comprehension) |
-| 14  | Funciones de Orden Superior |
-| 15  | Errores de Tipo en Python |
-| 16  | Fechas y Tiempos en Python |
-| 17  | Manejo de Excepciones |
-| 18  | Expresiones Regulares (Regular Expressions) |
-| 19  | Manejo de Archivos |
-| 20  | Administrador de Paquetes de Python |
-| 21  | Clases y Objetos |
-| 22  | Web Scraping |
-| 23  | Entorno Virtual (Virtual Environment) |
-| 24  | Estadísticas en Python |
-| 25  | Pandas |
-| 26  | Desarrollo Web con Python |
-| 27  | Python con MongoDB |
-| 28  | Construcción de API |
-| 29  | Proyecto: Construcción de API |
-| 30  | Conclusiones |
+| Día | Tema | Estado |
+| --- | --- | --- |
+| 01 | Introducción a Python y Variables | ✅ Completado |
+| 02 | Tipos de Datos y Operaciones Básicas | 🛠️ En progreso |
+| 03 | Condicionales y Bucles | 🔜 Próximamente |
+| 04 | Funciones y Módulos | 🔜 Próximamente |
+| 05 | Estructuras de Datos | 🔜 Próximamente |
+| 06 | Manejo de Errores | 🔜 Próximamente |
+| 07 | Programación Orientada a Objetos | 🔜 Próximamente |
+| 08 | Web Scraping | 🔜 Próximamente |
+| 09 | APIs y Automatización | 🔜 Próximamente |
+| 10 | Proyecto Final: Automatización en Python | 🔜 Próximamente |
 
 ---
 
@@ -77,16 +53,16 @@ En este primer día, aprenderás:
 
 ```python
 # Declaración de variables
-nombre = 'Martin'
-edad = 28
-es_estudiante = True
-lenguajes = ['Python', 'JavaScript', 'HTML']
+nombre = 'Martin'  # Variable de tipo string
+edad = 28          # Variable de tipo entero
+es_estudiante = True  # Variable de tipo booleano
+lenguajes = ['Python', 'JavaScript', 'HTML']  # Lista de lenguajes
 
 # Imprimir variables en consola
-print('Nombre:', nombre)
-print('Edad:', edad)
-print('¿Es estudiante?', es_estudiante)
-print('Lenguajes:', lenguajes)
+print('Nombre:', nombre)  # Imprime el nombre
+print('Edad:', edad)      # Imprime la edad
+print('¿Es estudiante?', es_estudiante)  # Imprime si es estudiante
+print('Lenguajes:', lenguajes)  # Imprime la lista de lenguajes
 ```
 
 ### 💡 Explicación:
@@ -95,23 +71,6 @@ print('Lenguajes:', lenguajes)
 2. **Tipos de datos**: En este ejemplo usamos **string** (texto), **números enteros** y **booleanos** (True/False).
 3. **Listas**: Guardamos múltiples valores en una sola variable (`lenguajes`).
 4. **Función `print()`**: Sirve para mostrar el valor de las variables en la consola.
-
----
-
-<a name="dia-2-variables-y-funciones-integradas"></a>
-## 📝 Día 2: Variables y Funciones Integradas
-
-### 🔍 Conceptos cubiertos
-
-En este segundo día, aprenderás:
-
-- Variables y sus características
-- Funciones integradas (`len()`, `type()`, etc.)
-- Cómo manipular datos utilizando estas funciones
-
-(… más contenido por completar …)
-
-[Volver al Índice](#plan-de-30-días-de-python)
 
 ---
 
@@ -146,19 +105,6 @@ Estas son las tecnologías que utilizaré durante el desafío:
 - **Jupyter Notebooks** 📓 para documentar proyectos
 - **VS Code** 🖥️ para el desarrollo local
 - **Git & GitHub** para control de versiones y colaboración
-
----
-
-## 📅 Plan de 30 Días
-
-Aquí está el plan general del desafío (basado en el repositorio de Asabeneh):
-
-- **Días 1-5**: Fundamentos de Python (variables, tipos de datos, operadores)
-- **Días 6-10**: Estructuras de datos (listas, tuplas, conjuntos, diccionarios)
-- **Días 11-15**: Funciones, manejo de errores y módulos
-- **Días 16-20**: Fechas, expresiones regulares y manejo de archivos
-- **Días 21-25**: Clases, objetos, web scraping, pandas
-- **Días 26-30**: Entornos virtuales, desarrollo web, MongoDB y construcción de APIs
 
 ---
 
