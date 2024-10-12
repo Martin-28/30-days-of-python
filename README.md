@@ -177,6 +177,6 @@ Si también estás aprendiendo Python o estás interesado en colaborar, ¡clona 
 ### 📌 Conéctate conmigo
 
 - **GitHub**: [Martin-28](https://github.com/Martin-28)
-- **Email**: martin28@example.com
+- **Email**: m.lopez8430@gmail.com
 
 ---
