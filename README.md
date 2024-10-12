@@ -21,44 +21,46 @@ Al final de los 30 días, habré creado varios proyectos en Python, comprendido 
 
 Cada carpeta en este repositorio corresponde a un día específico del desafío. Aquí tienes el índice completo:
 
+---
+
 ## 📅 Plan de 30 Días de Python
 
 | Día | Tema |
 |-----|-------|
-| 01  | [Introducción a Python y Variables](#dia-1-introduccion-a-python-y-variables) |
-| 02  | [Tipos de Datos y Operaciones Básicas](#dia-2-tipos-de-datos-y-operaciones-basicas) |
-| 03  | [Condicionales y Bucles](#dia-3-condicionales-y-bucles) |
-| 04  | [Funciones y Módulos](#dia-4-funciones-y-modulos) |
-| 05  | [Estructuras de Datos](#dia-5-estructuras-de-datos) |
-| 06  | [Manejo de Errores](#dia-6-manejo-de-errores) |
-| 07  | [Programación Orientada a Objetos](#dia-7-programacion-orientada-a-objetos) |
-| 08  | [Web Scraping](#dia-8-web-scraping) |
-| 09  | [APIs y Automatización](#dia-9-apis-y-automatizacion) |
-| 10  | [Proyecto Final: Automatización en Python](#dia-10-proyecto-final-automatizacion-en-python) |
-| 11  | [Introducción a Pandas](#dia-11-introduccion-a-pandas) |
-| 12  | [Manejo de Archivos](#dia-12-manejo-de-archivos) |
-| 13  | [Estadísticas en Python](#dia-13-estadisticas-en-python) |
-| 14  | [Clases y Objetos](#dia-14-clases-y-objetos) |
-| 15  | [Funciones de Orden Superior](#dia-15-funciones-de-orden-superior) |
-| 16  | [Fechas y Tiempos](#dia-16-fechas-y-tiempos) |
-| 17  | [Manejo de Excepciones](#dia-17-manejo-de-excepciones) |
-| 18  | [Expresiones Regulares](#dia-18-expresiones-regulares) |
-| 19  | [Manejo de Bases de Datos](#dia-19-manejo-de-bases-de-datos) |
-| 20  | [Entorno Virtual](#dia-20-entorno-virtual) |
-| 21  | [Construcción de APIs](#dia-21-construccion-de-apis) |
-| 22  | [Scraping Web Avanzado](#dia-22-scraping-web-avanzado) |
-| 23  | [Proyecto de Finalización](#dia-23-proyecto-de-finalizacion) |
-| 24  | [Python para Desarrollo Web](#dia-24-python-para-desarrollo-web) |
-| 25  | [Integración Continua](#dia-25-integracion-continua) |
-| 26  | [Python y Machine Learning](#dia-26-python-y-machine-learning) |
-| 27  | [Desarrollo de Juegos](#dia-27-desarrollo-de-juegos) |
-| 28  | [Proyectos Reales](#dia-28-proyectos-reales) |
-| 29  | [Preparación para el Futuro](#dia-29-preparacion-para-el-futuro) |
-| 30  | [Conclusiones y Reflexiones](#dia-30-conclusiones-y-reflexiones) |
+| 01  | [Introducción a Python](#dia-1-introduccion-a-python) | ✅ Completado |
+| 02  | [Variables y Funciones Integradas](#dia-2-variables-y-funciones-integradas) | 🛠️ En progreso |
+| 03  | Operadores | 🔜 Próximamente |
+| 04  | Cadenas de Texto (Strings) | 🔜 Próximamente |
+| 05  | Listas | 🔜 Próximamente |
+| 06  | Tuplas | 🔜 Próximamente |
+| 07  | Conjuntos (Sets) | 🔜 Próximamente |
+| 08  | Diccionarios | 🔜 Próximamente |
+| 09  | Condicionales | 🔜 Próximamente |
+| 10  | Bucles (Loops) | 🔜 Próximamente |
+| 11  | Funciones | 🔜 Próximamente |
+| 12  | Módulos | 🔜 Próximamente |
+| 13  | Comprensión de Listas (List Comprehension) | 🔜 Próximamente |
+| 14  | Funciones de Orden Superior | 🔜 Próximamente |
+| 15  | Errores de Tipo en Python | 🔜 Próximamente |
+| 16  | Fechas y Tiempos en Python | 🔜 Próximamente |
+| 17  | Manejo de Excepciones | 🔜 Próximamente |
+| 18  | Expresiones Regulares (Regular Expressions) | 🔜 Próximamente |
+| 19  | Manejo de Archivos | 🔜 Próximamente |
+| 20  | Administrador de Paquetes de Python | 🔜 Próximamente |
+| 21  | Clases y Objetos | 🔜 Próximamente |
+| 22  | Web Scraping | 🔜 Próximamente |
+| 23  | Entorno Virtual (Virtual Environment) | 🔜 Próximamente |
+| 24  | Estadísticas en Python | 🔜 Próximamente |
+| 25  | Pandas | 🔜 Próximamente |
+| 26  | Desarrollo Web con Python | 🔜 Próximamente |
+| 27  | Python con MongoDB | 🔜 Próximamente |
+| 28  | Construcción de API | 🔜 Próximamente |
+| 29  | Proyecto: Construcción de API | 🔜 Próximamente |
+| 30  | Conclusiones | 🔜 Próximamente |
 
 ---
 
-<a name="dia-1-introduccion-a-python-y-variables"></a>
+<a name="dia-1-introduccion-a-python"></a>
 ## 📝 Día 1: Introducción a Python y Variables
 
 ### 🔍 Conceptos cubiertos
@@ -75,16 +77,16 @@ En este primer día, aprenderás:
 
 ```python
 # Declaración de variables
-nombre = 'Martin'  # Variable de tipo string
-edad = 28          # Variable de tipo entero
-es_estudiante = True  # Variable de tipo booleano
-lenguajes = ['Python', 'JavaScript', 'HTML']  # Lista de lenguajes
+nombre = 'Martin'
+edad = 28
+es_estudiante = True
+lenguajes = ['Python', 'JavaScript', 'HTML']
 
 # Imprimir variables en consola
-print('Nombre:', nombre)  # Imprime el nombre
-print('Edad:', edad)      # Imprime la edad
-print('¿Es estudiante?', es_estudiante)  # Imprime si es estudiante
-print('Lenguajes:', lenguajes)  # Imprime la lista de lenguajes
+print('Nombre:', nombre)
+print('Edad:', edad)
+print('¿Es estudiante?', es_estudiante)
+print('Lenguajes:', lenguajes)
 ```
 
 ### 💡 Explicación:
@@ -96,10 +98,20 @@ print('Lenguajes:', lenguajes)  # Imprime la lista de lenguajes
 
 ---
 
-<a name="dia-2-tipos-de-datos-y-operaciones-basicas"></a>
-## 📝 Día 2: Tipos de Datos y Operaciones Básicas
+<a name="dia-2-variables-y-funciones-integradas"></a>
+## 📝 Día 2: Variables y Funciones Integradas
 
-(… contenido por completar …)
+### 🔍 Conceptos cubiertos
+
+En este segundo día, aprenderás:
+
+- Variables y sus características
+- Funciones integradas (`len()`, `type()`, etc.)
+- Cómo manipular datos utilizando estas funciones
+
+(… más contenido por completar …)
+
+[Volver al Índice](#plan-de-30-días-de-python)
 
 ---
 
@@ -134,6 +146,19 @@ Estas son las tecnologías que utilizaré durante el desafío:
 - **Jupyter Notebooks** 📓 para documentar proyectos
 - **VS Code** 🖥️ para el desarrollo local
 - **Git & GitHub** para control de versiones y colaboración
+
+---
+
+## 📅 Plan de 30 Días
+
+Aquí está el plan general del desafío (basado en el repositorio de Asabeneh):
+
+- **Días 1-5**: Fundamentos de Python (variables, tipos de datos, operadores)
+- **Días 6-10**: Estructuras de datos (listas, tuplas, conjuntos, diccionarios)
+- **Días 11-15**: Funciones, manejo de errores y módulos
+- **Días 16-20**: Fechas, expresiones regulares y manejo de archivos
+- **Días 21-25**: Clases, objetos, web scraping, pandas
+- **Días 26-30**: Entornos virtuales, desarrollo web, MongoDB y construcción de APIs
 
 ---
 
