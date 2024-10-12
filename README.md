@@ -25,8 +25,8 @@ Cada carpeta en este repositorio corresponde a un día específico del desafío.
 
 ## 📅 Plan de 30 Días de Python
 
-| Día | Tema |
-|-----|-------|
+| Día | Tema | Estado |
+|-----|-------|-----------------------------------------------|
 | 01  | [Introducción a Python](#dia-1-introduccion-a-python) | ✅ Completado |
 | 02  | [Variables y Funciones Integradas](#dia-2-variables-y-funciones-integradas) | 🛠️ En progreso |
 | 03  | Operadores | 🔜 Próximamente |
