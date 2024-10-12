@@ -1,6 +1,3 @@
-Aquí tienes el contenido del **README** en formato Markdown listo para copiar y pegar directamente en **GitHub**:
-
-```markdown
 # 🐍 30 Días de Python - Mi Viaje de Aprendizaje
 
 👋 ¡Hola! Soy **@Martin-28** y bienvenido a mi desafío de **30 Días de Python**. Este repositorio documenta mi proceso de aprendizaje mientras exploro Python a lo largo de los próximos 30 días. ¡Acompáñame en este viaje, aprende conmigo y quizás podamos colaborar en algún proyecto interesante!
@@ -183,6 +180,3 @@ Si también estás aprendiendo Python o estás interesado en colaborar, ¡clona 
 - **Email**: martin28@example.com
 
 ---
-```
-
-Este formato está listo para ser utilizado en tu repositorio de **GitHub**. Puedes copiarlo directamente y pegarlo en el archivo **README.md**.
